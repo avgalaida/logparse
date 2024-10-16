@@ -6,3 +6,4 @@
 /logs_app/management/commands/__pycache__
 /logs_app/migrations/__pycache__
 /tests/__pycache__
+/.idea
