@@ -2,7 +2,7 @@
  Парсер Nginx логов на Django.
 
 ```bash
-git clone https://github.com//avgalaida/logparse.git
+git clone https://github.com/avgalaida/logparse.git
 cd logparse
 docker-compose up --build    
 docker-compose exec web python manage.py migrate   
