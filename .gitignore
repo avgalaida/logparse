@@ -1,0 +1,8 @@
+
+/logparse/__pycache__
+.DS_Store
+/logs_app/__pycache__
+/logs_app/management/__pycache__
+/logs_app/management/commands/__pycache__
+/logs_app/migrations/__pycache__
+/tests/__pycache__
